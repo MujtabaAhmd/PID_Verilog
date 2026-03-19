@@ -1,0 +1,16 @@
+# Hardware build artifacts
+*.bit
+*.bin
+*.jou
+*.log
+*.str
+*.bak
+
+# Simulation files
+shm/
+xsim.dir/
+*.vcd
+
+# OS generated files
+.DS_Store
+Thumbs.db

@@ -1,2 +1,0 @@
-module derivative (intput [SIZE-1:0] 
-#parameter SIZE = 16;
