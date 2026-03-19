@@ -1,0 +1,6 @@
+module PID(input [size-1:0] error, [size-1:0] K_p, [size-1:0] K_d, [size-1:0] K_i)
+#parameter size = 16;
+
+
+
+endmodule

@@ -1,0 +1,56 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Mujtaba_A/Desktop/Test project/simulation/modelsim
+vPID_Controller
+Z1 !s110 1773394460
+!i10b 1
+!s100 cNVk39bKSh[j_2S82^iok1
+I:18Hek0QDn5?K^Gbb``fa0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1773391860
+8C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller.v
+FC:/Users/Mujtaba_A/Desktop/Test project/PID_Controller.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1773394460.000000
+!s107 C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Mujtaba_A/Desktop/Test project|C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller.v|
+!i113 1
+Z5 o-vlog01compat -work work
+Z6 !s92 -vlog01compat -work work {+incdir+C:/Users/Mujtaba_A/Desktop/Test project}
+Z7 tCvgOpt 0
+n@p@i@d_@controller
+vPID_TB
+R1
+!i10b 1
+!s100 dFdD7XG2Jm1;d=4XV^:bE0
+I6ggGGg9GgS65WHPAJ?_CL0
+R2
+R0
+w1773393129
+8C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller_Test.v
+FC:/Users/Mujtaba_A/Desktop/Test project/PID_Controller_Test.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller_Test.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+C:/Users/Mujtaba_A/Desktop/Test project|C:/Users/Mujtaba_A/Desktop/Test project/PID_Controller_Test.v|
+!i113 1
+R5
+R6
+R7
+n@p@i@d_@t@b

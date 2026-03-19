@@ -1,0 +1,28 @@
+The project is a PID controller module to be used for any control systems.
+
+Pseudocode:
+1. Calculate the error using subtractor
+2. With the error, calculate derivate, integrator, proportional with gains Kd, Ki, Ka.
+3. Sum all the derivative, integrator and proportional
+4. Store u(t) i.e. sum for next cycle.
+
+Derivative:
+Formula: (e_old - e_current)/dt
+
+1. Take current error as input
+2. Calculate using the formula
+3. Multiply with gain K_d
+4. Store current error in register for next cycle
+
+Integration:
+Formula: sum = (sum + e_current)*dt
+
+1. Take current error as input
+2. Calculate and store value
+3. Multiply with gain K_i
+
+Proportional:
+Formula: K_a * e_current
+
+1. Take current error as input
+2. Multiply with gain K_a
